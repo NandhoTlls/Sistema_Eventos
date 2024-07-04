@@ -1,0 +1,27 @@
+/* Estilo para a classe .img-eventos */
+.img-eventos {
+    width: 100%; /* Define a largura da imagem eventos como 100% do seu contêiner */
+}
+
+/* Estilo para o botão com a classe .botaoSalvar */
+.botaoSalvar {
+    background: rgb(255, 0, 0); /* Cor de fundo vermelha sólida para navegadores que não suportam gradientes */
+    background: radial-gradient(circle, rgb(208, 56, 56) 0%, rgb(209, 9, 182) 100%); /* Gradiente radial usando duas cores */
+    padding: 10px 20px; /* Espaçamento interno de 10px no topo/baixo e 20px nos lados */
+    border: none; /* Remove a borda do botão */
+    font-weight: bold; /* Define a espessura da fonte como negrito */
+}
+
+/* Estilo para o botão com a classe .botaoNovo */
+.botaoNovo {
+    background: rgb(255, 0, 0); /* Cor de fundo vermelha sólida para navegadores que não suportam gradientes */
+    background: radial-gradient(circle, rgb(208, 56, 56) 0%, rgb(209, 9, 182) 100%); /* Gradiente radial usando duas cores */
+    padding: 10px 20px; /* Espaçamento interno de 10px no topo/baixo e 20px nos lados */
+    border: none; /* Remove a borda do botão */
+    font-weight: bold; /* Define a espessura da fonte como negrito */
+}
+
+/* Estilo para imagens com a classe .imgTabela */
+.imgTabela {
+    width: 36px; /* Define a largura das imagens da tabela como 36 pixels */
+}
